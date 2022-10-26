@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HELLO&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I`m%20JoInHo&descAlignY=51&descAlign=62)
+
+<hr></hr>
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjxps2007&show_icons=true&theme=radical)
