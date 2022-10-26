@@ -3,14 +3,14 @@
 
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjxps2007&theme=radical&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjxps2007&theme=radical&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
 
 
-### Jo InHo
+### Skills
 
 <hr></hr>
 
-<h3 align="center"><b>Languages</b></h3>
+<h3 align="center"><b>Platforms & Languages</b></h3>
 <h3 align="center">
 <a href="https://www.microsoft.com/ko-kr/"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF"/></a>
 <a href=""><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=FFFFFF"/></a>
