@@ -1,8 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=EscapeFromFielld%20&fontSize=95" />
+
+
 ### Hi there 👋
 ## dgk
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjxps2007&show_icons=true&theme=radical) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjxps2007&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<hr></hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjxps2007&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"><b>Platforms & Languages</b></h3>
 <h3 align="center">
