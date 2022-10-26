@@ -1,20 +1,31 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HELLO&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I`m%20JoInHo&descAlignY=51&descAlign=62)
 
+
+<div align="center">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjxps2007&theme=radical&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
+
+
+### Jo InHo
+
 <hr></hr>
-### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjxps2007&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjxps2007&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr></hr>
-
-<h3 align="center"><b>Platforms & Languages</b></h3>
+<h3 align="center"><b>Languages</b></h3>
 <h3 align="center">
 <a href="https://www.microsoft.com/ko-kr/"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF"/></a>
 <a href=""><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=FFFFFF"/></a>
 <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/"><img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+
+</div>
+
+<hr></hr>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjxps2007&show_icons=true&theme=radical)
+</br>
+
 
 <h3 align="center"><b>🛠 Tools 🛠</b></h3>
 <h3 align="center">
