@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/JAVA-EE0000?style=flat-square&logo=OpenJDK&logoColor=FFFFFF"/></a>
+<a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
 <hr></hr>
 
