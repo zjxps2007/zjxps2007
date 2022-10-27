@@ -21,7 +21,6 @@ te
 <a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF"/></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/JAVA-EE0000?style=flat-square&logo=OpenJDK&logoColor=FFFFFF"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
 <hr></hr>
 
@@ -52,3 +51,4 @@ te
 <a href="https://www.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/></a>
 <a href="https://developer.android.com/studio?gclid=Cj0KCQjwteOaBhDuARIsADBqReiPVXLo-DitDdyLyw6V_Z-jmAnV4fVzl9VTfFAtcKXJPxRcAPY1I6MaAmEoEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/></a>
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
