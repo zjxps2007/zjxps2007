@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HELLO&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I`m%20JoInHo&descAlignY=51&descAlign=62)
 
-
+<div align="center">
+te
+</div>
+ 
 <div align="center">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjxps2007&theme=radical&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
 
-### Skills
+### <br></br>
 
 <hr></hr>
 
@@ -45,7 +48,7 @@
 <br></br>
 <hr></hr>
 
-<h3>Study 🌱</h3>
+<h3>Studying 🌱</h3>
 <a href="https://www.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/></a>
 <a href="https://developer.android.com/studio?gclid=Cj0KCQjwteOaBhDuARIsADBqReiPVXLo-DitDdyLyw6V_Z-jmAnV4fVzl9VTfFAtcKXJPxRcAPY1I6MaAmEoEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/></a>
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/></a>
