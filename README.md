@@ -46,3 +46,5 @@
 <hr></hr>
 
 <h3>Study</h3>
+<a href=""><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/></a>
+<a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/></a>
