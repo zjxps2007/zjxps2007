@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HELLO&fontSize=90&animation=fadeIn&fontAlignY=30&desc=I`m%20JoInHo&descAlignY=51&descAlign=62)
-
-<div align="center">
-te
-</div>
  
 <div align="center">
 
@@ -39,7 +35,6 @@ te
 <a href="https://store.unity.com/kr/products/unity-personal?gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ3ZmeV-cOh-e-Bo8mNulZqeviHN5k1ieQ3iDEfi2EBclVujFZIHrDIaAujWEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
 <a href="https://www.unrealengine.com/ko/unreal-engine-5?utm_source=sa&utm_medium=click_link&utm_campaign=egk_ue5_download&utm_content=ue5_download&utm_term=406&gclid=Cj0KCQjwteOaBhDuARIsADBqRehz4xjhD--NXPP3jf3psibM8pL8SHCHADVSg8x6W6QUgKyLEDJhQJIaAlc8EALw_wcB"><img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=FFFFFF"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/></a>
-
   
   <hr></hr>
   
