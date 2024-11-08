@@ -1,5 +1,5 @@
 
-
+<h1><b>Skills</b></h1>
 
 <h3><b>Platforms & Languages 🚀</b></h3>
 <a href="https://www.microsoft.com/ko-kr/"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF"/></a>
