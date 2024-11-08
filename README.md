@@ -2,6 +2,8 @@
 
 - 이름 : 조인호 (Jo InHo)
 - 생년월일 : 2000.06.14.
+- 전공 : 콘텐츠IT (Content IT), 빅데이터 (Big Data)
+- Lab : [Graphics & Virtual Environment Lab](https://sites.google.com/view/gvelab/home?authuser=0)
 - Email : zjxps2007@gmail.com
 
 <h1><b>✨ Skills</b></h1>
