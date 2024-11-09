@@ -36,6 +36,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zjxps2007&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%; height: auto;">
 </div>
 
-<br></br>
-
-<h3>🌱 Studying</h3>
+<h3><b>🌱 Studying</b></h3>
